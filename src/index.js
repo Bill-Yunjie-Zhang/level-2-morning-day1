@@ -4,4 +4,10 @@ var addNumbers = function(x,y) {
 }
 
 var testAddNumbers = addNumbers(4,8)
-console.log(testAddNumbers)
+
+if( testAddNumbers > 10){
+    console.log(testAddNumbers)
+}
+
+
+
