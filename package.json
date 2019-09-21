@@ -1,0 +1,19 @@
+{
+  "name": "day1",
+  "version": "0.0.1",
+  "description": "learning npm and git on day one :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bill-Yunjie-Zhang/day1.git"
+  },
+  "author": "Bill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bill-Yunjie-Zhang/day1/issues"
+  },
+  "homepage": "https://github.com/Bill-Yunjie-Zhang/day1#readme"
+}
