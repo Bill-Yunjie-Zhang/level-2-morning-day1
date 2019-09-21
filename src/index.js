@@ -5,7 +5,7 @@ var addNumbers = function(x,y) {
 
 var testAddNumbers = addNumbers(4,4)
 
-if( testAddNumbers > 10){
+if( (testAddNumbers > 5) && (testAddNumbers < 10)){
     console.log(testAddNumbers)
 } else {
     console.log("The number is not big enough!")
